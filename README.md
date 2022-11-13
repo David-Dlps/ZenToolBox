@@ -11,6 +11,10 @@ Because of the nature of the project, it is constructed in a way a bit different
 
 For this a simple system of emoji, will indicate the reality/valid of each section to allow our ZTBxers identify what status/part are they identifying:
 
+- a
+- b
+- c
+
 🙀 - Section is not done (not even close), its just a dream/draft to give the ZTBxer the idea of what we suggest/expect in the section
 😺 - Section is done but not validated/reviewed by the ZTBx community, in this case the component is already true/exist but is in early stage
 😻 - Section is completed (done + validated/reviewed by ZTBx community), fully functional info/component
